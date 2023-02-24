@@ -30,11 +30,15 @@
  
  .csym019{
 display: inline;
-    width: 50%;
-    float:inline-start
+    width: 48%;
+    float:inline-start;
+    background-color: yellow;
+    border: 5px solid black;
  }
 .csym015{
-    width: 50%;
-    float:inline-end
+    width: 48%;
+    float:inline-end;
+    background-color: lightblue;
+    border: 5px solid black;
 }
 
