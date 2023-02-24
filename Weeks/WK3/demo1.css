@@ -2,7 +2,7 @@
 
 body {
     display: grid;
-	grid-template-columns: 20% 50% 15% 15%;
+	grid-template-columns: 35% 35% 15% 15%;
 	grid-template-rows: auto;
 	grid-template-areas: 
 		"header header header header"
