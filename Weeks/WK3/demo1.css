@@ -12,7 +12,7 @@ body {
       }
 
 header {
-background-color: blue;
+background-color: orange;
 color: white;
 padding: 1em;
 grid-area: header;
@@ -36,14 +36,14 @@ color: white;
 grid-area: main;
 }
 aside {
-background-color: lightgreen;
+background-color: pink;
 grid-area: aside;
 text-align: center;
 padding-top: 100%;
 }
 .emptyStyle {
-    background-color: purple;
-    color: white;
+    background-color: white;
+    color: black;
     font-size: 30px;
     grid-area: empty;
     text-align: center;
